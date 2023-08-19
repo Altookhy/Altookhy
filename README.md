@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Altookhy.
-- 👀 I’m interested in gym and sport.
-- 🌱 I’m currently learning sofware engneering.
-- 📫 How to reach me email:osamaatookhy@gmail.com 
+- 👀 I’m App and Web develpopment, The next step is to learn cyber security.
+- 🌱 I’m currently looking for certificates and the opportunity to learn security.
+- 📫 How to reach me email:osamaatookhy@gmail.com
 
 <!---
 Altookhy/Altookhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
